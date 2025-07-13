@@ -1,0 +1,1 @@
+Questo è un client di Zappr per Android TV. È una semplicissima WebView che avvia una versione leggermente modificata di Zappr per TV.
